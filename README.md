@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrew Frisby (@afrisby21)
-- 👀 I’m interested in all things data science and how it can be used in sports
+- 👀 I’m interested in all things data science and machine learning
 - 📫 How to reach me: afrisby8202@gmail.com
 
 <!---
